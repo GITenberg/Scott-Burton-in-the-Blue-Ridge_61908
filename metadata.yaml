@@ -1,0 +1,30 @@
+_repo: Scott-Burton-in-the-Blue-Ridge_61908
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cheyney, Edward G. (Edward Gheen)
+    alias: Cheyney, E. G. (Edward Gheen)
+    birthdate: 1878
+    deathdate: 1950
+    gutenberg_agent_id: '49214'
+    url: http://www.gutenberg.org/2009/agents/49214
+description: ''
+gutenberg_issued: '2020-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61908'
+  lccn: '24020614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Vendetta -- Juvenile fiction'
+- !lcsh 'Foresters -- Juvenile fiction'
+- !lcsh 'Blue Ridge Mountains -- Juvenile fiction'
+- !lcsh 'Logging -- Juvenile fiction'
+- !lcsh 'North Carolina -- Juvenile fiction'
+- GITenberg
+title: Scott Burton in the Blue Ridge
+url: http://www.gutenberg.org/ebooks/61908
